@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UnboxIt\\source\\repos\\program1\\WinFormsApp4\\WinFormsApp4.csproj": {}
+    "D:\\DotNetProject\\WinFormsApp4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UnboxIt\\source\\repos\\program1\\WinFormsApp4\\WinFormsApp4.csproj": {
+    "D:\\DotNetProject\\WinFormsApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UnboxIt\\source\\repos\\program1\\WinFormsApp4\\WinFormsApp4.csproj",
+        "projectUniqueName": "D:\\DotNetProject\\WinFormsApp4.csproj",
         "projectName": "WinFormsApp4",
-        "projectPath": "C:\\Users\\UnboxIt\\source\\repos\\program1\\WinFormsApp4\\WinFormsApp4.csproj",
+        "projectPath": "D:\\DotNetProject\\WinFormsApp4.csproj",
         "packagesPath": "C:\\Users\\UnboxIt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UnboxIt\\source\\repos\\program1\\WinFormsApp4\\obj\\",
+        "outputPath": "D:\\DotNetProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UnboxIt\\AppData\\Roaming\\NuGet\\NuGet.Config",
